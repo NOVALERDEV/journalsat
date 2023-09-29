@@ -3,7 +3,7 @@ created new channels for enigma2
 
 <details>
   <summary>Required:</summary>
-  
+
   1. OS: OpenPLI 9.0-rc (Last version)
   2. Python3
      
