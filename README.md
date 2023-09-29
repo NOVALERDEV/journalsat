@@ -4,8 +4,7 @@ created new channels for enigma2
 <details>
   <summary>Required:</summary>
 
-  1. OS: OpenPLI 9.0-rc (Last version)
-  2. Python3 ![python](https://img.shields.io/badge/OpenPLI-python3-green)
+  1. ![python](https://img.shields.io/badge/OpenPLI-python3-green)
      
 </details>
     
