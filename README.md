@@ -1,5 +1,5 @@
 # journalsat
-created new channels for enigma2
+Created new channels for enigma2
 
 <details>
   <summary>Required:</summary>
