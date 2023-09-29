@@ -1,5 +1,6 @@
 # journalsat
 created new channels for enigma2
+
 ![Home](https://raw.githubusercontent.com/NOVALERDEV/journalsat/main/28-9-2023-18-45-17.jpg)
 
 ![Home](https://raw.githubusercontent.com/NOVALERDEV/journalsat/main/28-9-2023-18-44-14.jpg)
