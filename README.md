@@ -1,8 +1,14 @@
 # journalsat
 created new channels for enigma2
 
-!!! info "Some title"
-    `info` renders like this.
+<details>
+  <summary>Click to expand!</summary>
+  
+  1. A numbered
+  2. list
+     * With some
+     * Sub bullets
+</details>
     
 ![Home](https://raw.githubusercontent.com/NOVALERDEV/journalsat/main/28-9-2023-18-45-17.jpg)
 
