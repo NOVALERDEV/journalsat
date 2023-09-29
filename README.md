@@ -2,12 +2,9 @@
 created new channels for enigma2
 
 <details>
-  <summary>Click to expand!</summary>
-  
-  1. A numbered
-  2. list
-     * With some
-     * Sub bullets
+  <summary>Required:</summary>
+  1. OS: OpenPLI 9.0-rc (Last version)
+  2. Python3
 </details>
     
 ![Home](https://raw.githubusercontent.com/NOVALERDEV/journalsat/main/28-9-2023-18-45-17.jpg)
