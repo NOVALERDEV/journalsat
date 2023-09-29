@@ -4,7 +4,7 @@ created new channels for enigma2
 <details>
   <summary>Required:</summary>
 
-  1. ![python](https://img.shields.io/badge/OpenPLI-python3-green)
+  1. ![python](https://img.shields.io/badge/OpenPLI%209.0rc-python3-green)
      
 </details>
     
